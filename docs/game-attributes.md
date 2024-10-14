@@ -44,7 +44,7 @@ message ActorStatusPBComponent {
     DerivedAttributesPBComponent derived_attributes = 2;
     bool isDead = 3;  // 表示角色是否死亡
 }
-
+```
 
 注意事项
 当游戏变得更复杂时，使用独立结构更合适。

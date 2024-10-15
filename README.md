@@ -7,6 +7,7 @@
 2. [角色状态管理](docs/character-status.md)
 3. [伤害计算系统](docs/damage-calculation.md)
 4. [游戏开发最佳实践](docs/best-practices.md)
+4. [buff系统](docs/buff.md)
 
 ## 使用说明
 这些笔记经过组织，旨在帮助你快速理解和实施各种游戏开发技术。欢迎探索每个部分并贡献你自己的见解！
